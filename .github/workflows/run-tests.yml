@@ -2,7 +2,7 @@ name: Run
 
 on:
   schedule:
-     - cron: "36 15 * * *"
+     - cron: "38 15 * * *"
   push:
 permissions:
   contents: read
